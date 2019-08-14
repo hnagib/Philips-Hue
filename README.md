@@ -1,5 +1,6 @@
 # Philips Hue
 
+Syncing colors read from webcam to Philips Hue light bulbs. e.g. [Here](https://www.youtube.com/watch?v=gVjFJMLw24k) is a demo of sync-ing CN tower lights to Philips Hue light strips.
 
 :open_file_folder: Repo Organization
 --------------------------------
