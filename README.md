@@ -12,5 +12,7 @@
     │   ├── cam_to_hue.ipynb                                 <-- opencv tutorial        
     │   └── ...
     │    
+    ├── Makefile                                             <- un/install environment 
+    ├── requirements.txt                                     <- List of python packages required     
     ├── README.md
     └── .gitignore  
