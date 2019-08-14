@@ -5,14 +5,12 @@
 --------------------------------
 
     ├── src                
-    │   ├── plotutils.py                                     <-- plotting functions
-    │   └── dfutils.py                                       <-- data prep functions 
+    │   ├── cam_to_hue.py                                    <-- connecting webcam to philips hue
+    │   └── ... 
     │     
     ├── notebooks          
-    │   ├── hn-prep-data.ipynb                               <-- download & prepare data for feature gen         
-    │   ├── hn-dscribe-features.ipynb                        <-- generating features using DScribe package
-    │   ├── hn-train-xgboost.ipynb                           <-- generating features using DScribe package    
-    │   └── hn-train-dnn.ipynb                               <-- DNN fitting, monitoring & eval
+    │   ├── cam_to_hue.ipynb                                 <-- opencv tutorial        
+    │   └── ...
     │    
     ├── README.md
     └── .gitignore  
