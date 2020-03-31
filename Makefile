@@ -1,7 +1,7 @@
 SHELL=/bin/bash
 
 install-env:
-	conda create -n ph python=3.7
+	conda create -n ph python=3.6
 	source activate ph && pip install -r requirements.txt
 	conda install ipykernel
 	source activate ph && python -m ipykernel install --user --name ph --display-name "philipshue"
