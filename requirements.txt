@@ -1,5 +1,5 @@
 numpy==1.13.3
 phue==1.0
-opencv_python==3.4.1.15
+opencv_python==4.2.0.32
 ipykernel==5.2.0
 bokeh==2.0.1
